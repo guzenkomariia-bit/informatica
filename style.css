@@ -1,0 +1,8 @@
+body {
+    background-color: #f0f0f0; /* світло-сірий фон */
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: darkblue; /* синій колір заголовка */
+    text-align: center;
+}
